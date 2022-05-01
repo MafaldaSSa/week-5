@@ -95,3 +95,8 @@ button{
 	outline: inherit;
 	
 }
+p{
+	font-family: 'Amaranth', sans-serif;
+	text-align: center;
+	color:#eaf6f6
+}
