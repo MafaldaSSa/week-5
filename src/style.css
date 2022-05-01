@@ -1,0 +1,97 @@
+body{
+	background-image:url(umbrella.jpg);
+	background-size:cover;
+}
+h1, h2, h3, ul, .row{
+font-weight:bolder;
+text-align:center;
+font-family: 'Amaranth', sans-serif;
+}
+h1{
+	color:#eaf6f6;
+	font-size:25px;
+	padding: 30px 5px;
+	position:relative
+}
+h2{
+	color:#eaf6f6;
+	font-size:25px;
+	position:relative;
+}
+ul{
+	line-height:50px;
+	margin:0 auto;
+	padding:0;
+	display:block;
+	list-style-type: none;
+}
+li{
+	text-align:center;
+}
+a{
+	color:#eaf6f6;
+	outline:none;
+	text-decoration:none;
+	cursor:pointer
+}
+a:hover{
+	text-decoration:none;
+}
+a:active{
+	text-decoration: none;
+}
+#Celsius:hover{
+	text-decoration:underline;
+	color:  none;
+}
+#Fahrenheit:hover{
+	text-decoration:underline;
+	color: none;
+}
+.temperature{
+	color:#eaf6f6;
+	font-size:35px;	
+}
+
+.airquality{
+	color:#eaf6f6;
+	font-size:35px;
+}
+.max{
+	color:#dfd3c3;
+	font-weight: bolder;
+}
+.min{
+	color:#f5e1da
+}
+.col-4{
+	display:block;
+	padding:10px;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+.location{
+	float:none;
+	margin:0 auto;
+	text-align:center;
+	}
+.row{
+	color:#eaf6f6;
+	font-family: 'Amaranth', sans-serif;
+	
+}
+.input-group-text{
+	font-family: 'Amaranth', sans-serif;
+}
+#text{
+	font-family:'Amaranth', sans-serif;
+}
+button{
+	background: none;
+	color: inherit;
+	border: 0;
+	padding: right 25px;
+	cursor:pointer;
+	outline: inherit;
+	
+}
